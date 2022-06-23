@@ -1,6 +1,5 @@
 {
-    "token": "OTgyMTQ4NjY5MjMzMDcwMTIx.GD8jhX.pLkqplBcuq5m7KpRMPucQ_eDHQ2OH7FtjnIPbc",
-    "prefix": "!",
-    "slash":  "/", 
-    "mongooose": "mongodb+srv://discord-bot:duvdfH0XEVetVzbN@discord-bot.eekim.mongodb.net/test"
+    "token": "",
+    "prefix": "",
+    "mongooose": ""
 }
